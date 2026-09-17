@@ -1,0 +1,1 @@
+{"scripts":{"render":"remotion render src/index.ts ContagiousYawn out/full.mp4"},"dependencies":{"@remotion/cli":"latest","@remotion/media":"latest","react":"latest","react-dom":"latest","remotion":"latest"},"devDependencies":{"typescript":"latest"}}
