@@ -1,0 +1,1 @@
+import React from 'react'; import {Composition} from 'remotion'; import {ContagiousYawn} from './ContagiousYawn'; export const RemotionRoot=()=> <Composition id="ContagiousYawn" component={ContagiousYawn} durationInFrames={5400} fps={60} width={1080} height={1920}/>;
